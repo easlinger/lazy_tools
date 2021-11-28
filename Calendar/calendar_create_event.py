@@ -31,9 +31,9 @@ from project_setup import creds_json
 
 # Example command line arguments
 # $ python calendar_create_event.py "Qualifying exams resesarch scripted", 3:30, -d 4-15 -t "2.5 hours"
-# arguments = ['Resesarch scripted', '3:30', '-d 4-15', '-t 2.5 hours']
-# arguments = ['Resesarch scripted', '3:30', '8', '-d 4-15']
-# arguments = ['Resesarch scripted', '-t 0.75']
+# arguments = ['Research scripted', '3:30', '-d 4-15', '-t 2.5 hours']
+# arguments = ['Research scripted', '3:30', '8', '-d 4-15']
+# arguments = ['Research scripted', '-t 0.75']
 
 
 # Load Credentials (pickled in project_setup.py) & Service
